@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+.page {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+}
